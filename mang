@@ -70,5 +70,6 @@ public class mang
     System.out.print("\nMang sau khi sap xep la: ");
     Xuat(n);
     }
+    //danh dep trai vl
 }
 
