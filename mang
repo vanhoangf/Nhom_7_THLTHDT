@@ -69,6 +69,7 @@ public class mang
     SX(n);
     System.out.print("\nMang sau khi sap xep la: ");
     Xuat(n);
+    //Hoang cc clm
     }
 }
 
