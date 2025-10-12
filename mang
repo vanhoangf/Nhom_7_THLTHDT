@@ -3,7 +3,7 @@ public class mang
 {
     static Scanner sc = new Scanner(System.in);
     static int [] a;
-    static void Nhap(int n)
+    static void Nhap(int n)https://github.com/vanhoangf/Nhom_7_THLTHDT1/tree/main/Tuan1
     {
         a = new int[n];
         for (int i = 0; i < n; i++)
